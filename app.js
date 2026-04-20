@@ -1,4 +1,4 @@
-const DB_ENDPOINT = "https://script.google.com/macros/s/AKfycbwXIgw0YRLkttCbnpml5AT19wWOSbt3pLV3_W2hxZ0a/dev";
+const DB_ENDPOINT = "https://script.google.com/macros/s/AKfycbzI4zLoiTpULUlr5lBeykqBZuJYejBeIGgnL4aH8oD9-JGEjTaVN8XQqdiVRyrCzPQWkQ/exec";
  
 //READ
 async function readData(table) {
